@@ -1,5 +1,0 @@
-Project Title : Smart Solution For Railways
-
-Assignment : Make a Smart Home in Tinkercad, using 2+ sensors, Led, Buzzer in single code and circuit.
-
-Link : https://www.tinkercad.com/things/6h71ddtrjIi
